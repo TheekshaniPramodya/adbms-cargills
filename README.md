@@ -11,4 +11,4 @@ This repository contains SQL scripts for the Advanced Database Management System
 ## Team
 - Theekshani Pramodya
 - Hasara Sathsara
-- [Add others]
+- Nima9910
